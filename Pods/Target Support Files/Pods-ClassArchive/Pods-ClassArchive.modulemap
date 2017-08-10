@@ -1,0 +1,6 @@
+framework module Pods_ClassArchive {
+  umbrella header "Pods-ClassArchive-umbrella.h"
+
+  export *
+  module * { export * }
+}
